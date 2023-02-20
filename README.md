@@ -15,7 +15,7 @@ The maven coordinates are
 <dependency>
     <groupId>com.themightystags</groupId>
     <artifactId>displaytag-jakarta</artifactId>
-    <version>2.5.0.2-SNAPSHOT</version>
+    <version>2.5.0.2</version>
 </dependency>
 ```
 
